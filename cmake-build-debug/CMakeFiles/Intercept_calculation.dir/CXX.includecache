@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/admin/Development/C++/Intercept_calculation/heading_change.cpp
+cmath
+-
+iostream
+-
+
+C:/Users/admin/Development/C++/Intercept_calculation/main.cpp
+iostream
+-
+ctime
+-
+fstream
+-
+speed_change.cpp
+C:/Users/admin/Development/C++/Intercept_calculation/speed_change.cpp
+heading_change.cpp
+C:/Users/admin/Development/C++/Intercept_calculation/heading_change.cpp
+
+C:/Users/admin/Development/C++/Intercept_calculation/speed_change.cpp
+cmath
+-
+iostream
+-
+

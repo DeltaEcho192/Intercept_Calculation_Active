@@ -1,0 +1,3 @@
+C:/Users/admin/Development/C++/Intercept_calculation/cmake-build-debug/CMakeFiles/Intercept_calculation.dir
+C:/Users/admin/Development/C++/Intercept_calculation/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/admin/Development/C++/Intercept_calculation/cmake-build-debug/CMakeFiles/rebuild_cache.dir
