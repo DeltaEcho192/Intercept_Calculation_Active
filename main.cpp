@@ -208,6 +208,7 @@ int main() {
     //
     //
 
+    // This function gets the angle change when both the heading and the speed changes.
     double old_heading2 = 1.5708, missile_ang1 = missileheading, headingChange = 0.0174533,oldDirectDist = interceptDistance,
         oldSpeed = 210 , newSpeed = 200, remaing_dist2 = distanceCovered,target_traveled2 = 0,new_missle_ang = 0;
   
@@ -225,7 +226,7 @@ int main() {
 
         cout << "Missile Angle Adjustment: " << new_missle_ang << "\n";
         cout << elapsed_secs2 << " Amount of time taken." << "\n";
-        
+
 
 
     }
